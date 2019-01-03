@@ -1,6 +1,10 @@
 # express-rest-sample
 
-express��REST-API�̍쐬�T���v��
+express-no-stressを使って、Expressを使用したREST-APIの作成サンプル。  
+[express-no-stress](https://www.npmjs.com/package/generator-express-no-stress)  
+
+動作確認まで。  
+ts版があるようなので、実際の実装を試すのはts版で実施する。
 
 ## Get Started
 
